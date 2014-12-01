@@ -1,0 +1,10 @@
+{
+    "packages": {
+        "vm/package-a": {
+            "dev-master": { @composer.json }
+        },
+        "vm/package-b": {
+            "dev-master": { @composer.json }
+        }
+    }
+}

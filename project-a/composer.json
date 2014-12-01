@@ -1,11 +1,8 @@
 {
     "name": "vm/project-a",
-    "description": "Project A",
-    "authors": [
-        {
-            "name": "Jorge Alvarez",
-            "email": "jalvarez@vantagemedia.com"
+    "autoload": {
+        "psr-0" : {
+            "vm\\hic" : "src"
         }
-    ],
-    "require": {}
+    }
 }
